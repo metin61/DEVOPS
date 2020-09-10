@@ -10,6 +10,8 @@
 
 
 
+
+
 In deze taak gaan we **Visual Studio Code** installeren en voor sommigen voor het eerst een nieuw bestand aanmaken en opslaan. [Visual Studio Code](https://en.wikipedia.org/wiki/Visual_Studio_Code) is de editor waarin je tijdens jouw opleiding programmeer code schrijft. 
 
 Microsoft wil graag dat zoveel mogelijk programmeurs software ontwikkelen voor het Windows besturingssysteem. Want hoe meer software er is voor Windows hoe meer mensen daarvan afhankelijk zijn en dus Windows kiezen als besturingsysteem. Het software ecosysteem dat zo ontstaat rondom het Windows *platform* zorgt voor het grootste gedeelte van de inkomsten van Microsoft (in 2019 was dit in totaal meer dan 82 miljard dollar bruto).
